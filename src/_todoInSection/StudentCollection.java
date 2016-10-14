@@ -13,9 +13,9 @@ import model.Student;
  */
 // TODO 1: Adapt this class to a TableModel with the methods JTable needs.
 // You can Google the methods or let Eclipse write the method stubs for you
-// (after adding implements ListModel to the class heading).
+// (after adding implements TableModel to the class heading).
 //
-// Note: Some ListModel need not be implemented.
+// Note: Some ListModel methods need not be implemented.
 public class StudentCollection  {
 
   private List<Student> theStudents;
