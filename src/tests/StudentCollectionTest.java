@@ -23,4 +23,6 @@ public class StudentCollectionTest {
     assertEquals(1.99, students.getFirstStudentWithName("Dakota").getGPA(), 0.0001);
     assertEquals(2.0, students.getFirstStudentWithName("Jamie").getGPA(), 0.0001);
   }
+  
+  
 }

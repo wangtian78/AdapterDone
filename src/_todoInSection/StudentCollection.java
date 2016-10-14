@@ -50,8 +50,8 @@ public class StudentCollection  {
     theStudents.add(newStudent);
   }
 
-  public void get(int index) {
-    this.theStudents.get(index);
+  public Student get(int index) {
+    return theStudents.get(index);
   }
 
   public Student getFirstStudentWithName(String name) {
