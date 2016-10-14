@@ -8,7 +8,7 @@ import _todoInSection.StudentCollection;
 import model.Student;
 
 //
-// A unit test for StudentCollection, okay just a small start
+// A unit test for StudentCollection, okay just a small start.
 //
 // @author Rick Mercer
 //

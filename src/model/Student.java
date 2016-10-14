@@ -4,7 +4,7 @@ package model;
  * A simple class that represents a student at a university.
  * 
  * @author Jorge Vergara
- * 
+ *    
  */
 public class Student {
 

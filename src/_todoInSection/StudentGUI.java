@@ -8,11 +8,8 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-import javax.swing.JScrollPane;
 import javax.swing.JTable;
-import javax.swing.RowSorter;
 import javax.swing.table.TableModel;
-import javax.swing.table.TableRowSorter;
 
 @SuppressWarnings("serial")
 public class StudentGUI extends JFrame {

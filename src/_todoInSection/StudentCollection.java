@@ -3,16 +3,13 @@ package _todoInSection;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.swing.event.TableModelListener;
-import javax.swing.table.TableModel;
-
 import model.Student;
 
 /**
  * StudentCollection is a collection class that keeps track of all our students.
  * 
  * @author Jorge Vergara, Rick Mercer, and Jeremy Mowery (jermowery@email.arizona.edu)
- * 
+ *    
  */
 // TODO 1: Adapt this class to a TableModel with the methods JTable needs.
 // You can Google the methods or let Eclipse write the method stubs for you
