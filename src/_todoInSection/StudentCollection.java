@@ -14,11 +14,11 @@ import model.Student;
  * @author Jorge Vergara, Rick Mercer, and Jeremy Mowery (jermowery@email.arizona.edu)
  * 
  */
-// TODO 1: Adapt this class to a TableModel with the methods JTable needs
-// You should do this by creating a new class in the _todoInSection package, do
-// not implement TableModel here as it will introduce view components to your
-// model and make it difficult to test some parts of your code.
-// Note: Many methods need not be implemented in the class that you write to
+// TODO 1: Adapt this class to a TableModel with the methods JTable needs.
+// You can Google the methods or let Eclipse write the method stubs for you
+// (after adding implements ListModel to the class heading).
+//
+// Note: Some ListModel need not be implemented.
 public class StudentCollection  {
 
   private List<Student> theStudents;
