@@ -15,7 +15,7 @@ import model.Student;
 // You can Google the methods or let Eclipse write the method stubs for you
 // (after adding implements TableModel to the class heading).
 //
-// Note: Some ListModel methods need not be implemented.
+// Note: Some TableModel methods need not be implemented.
 public class StudentCollection  {
 
   private List<Student> theStudents;
